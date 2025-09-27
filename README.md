@@ -66,7 +66,7 @@ GET /weather/{location}
 
 Despliégalo fácilmente con un solo clic:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tu-usuario/weather-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Juliocpo946/api_weather.git)
 
 ### Configuración en Render
 
